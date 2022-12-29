@@ -1,4 +1,5 @@
 Arkanoid - a game created during OOP class.
-![Screenshot (137)](https://user-images.githubusercontent.com/61826812/209962452-89869e8a-e39a-4d23-8507-1f5473a002a8.png)
-<img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/61826812/209962452-89869e8a-e39a-4d23-8507-1f5473a002a8.png)" width="48">
-<!-- ![Screenshot (138)](https://user-images.githubusercontent.com/61826812/209962782-fb47853b-45d2-4988-827c-d4cc647f59ac.png | width=100) -->
+
+<img src="https://github.com/Browniz23/arkanoid/blob/main/Screenshot%20(137).png" width="200" height="400" />
+
+<img src="https://github.com/Browniz23/arkanoid/blob/main/Screenshot%20(138).png" width="200" height="400" />
